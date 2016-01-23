@@ -5,7 +5,7 @@
 # Scanner RouterHunterBR v2.0 - InurlBrasil Team 
 # Tool used to find and perform tests in vulnerable routers on the internet.
 # Facebook: https://fb.com/JhonVipNet
-# Blog: http://blog.inurl.com.br
+# Blog: http://blog.inurl.com.br - https://jh00nsec.wordpress.com
 # Twitter: https://twitter.com/jh00nbr
 # Github: https://github.com/jh00nbr/
 # Channel: https://www.youtube.com/c/Mrsinisterboy
@@ -34,7 +34,7 @@ banner = """
  Tool used to find and perform tests in vulnerable routers on the internet.
 
 [ Scanner RouterHunterBR 2.0 - InurlBrasil Team - coded by Jhonathan Davi a.k.a jh00nbr - jhoonbr at protonmail.ch ]
-[ twitter.com/jh00nbr - github.com/jh00nbr/ - blog.inurl.com.br - www.youtube.com/c/Mrsinisterboy ]
+[ twitter.com/jh00nbr - github.com/jh00nbr/ - jh00nsec.wordpress.com - blog.inurl.com.br - www.youtube.com/c/Mrsinisterboy ]
 
 [!] legal disclaimer: Usage of RouterHunterBR for attacking targets without prior mutual consent is illegal. 
 It is the end user's responsibility to obey all applicable local, state and federal laws.					
