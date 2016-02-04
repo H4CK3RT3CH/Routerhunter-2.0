@@ -30,6 +30,7 @@ by this program.
  * Github: https://github.com/jh00nbr/
  * Youtube: https://www.youtube.com/c/Mrsinisterboy
 
+### https://jh00nsec.wordpress.com/2016/01/22/routerhunterbr-2-0-testing-vulnerabilities-in-devices-and-routers-connected-to-the-internet-dnschanger/
 
 ### Description
 ------
